@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ayman-boucheneb/ayman-boucheneb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me  
+I’m a 3rd-year Computer Science student at University of the Arts London passionate about exploring the realms of cybersecurity, strengthern compliance to frameworks & protecting data securely from data threats.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On  
+- 🛡️ Automating log evidence collection & anomaly detection  
+- 🧭 Performing security gap analyses against industry frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & Frameworks  
+- **Languages:** Python, SQL
+- **Cybersecurity Frameworks:** ISO/IEC 27001, NCSC Cyber Assessment Framework  
+- **Core Skills:** Security gap analysis, log review, evidence mapping, basic automation scripting
+
+## 🌐 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/ayman-boucheneb/)
