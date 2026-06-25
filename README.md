@@ -3,13 +3,15 @@
 ---
 
 ## 🧠 What I'm About
-I break things (ethically) to understand how to fix them. My work sits at the intersection of **cloud security**, **SOC operations** and **compliance frameworks** — building practical knowledge of how real attacks happen and how to stop them.
+I break things (ethically) to understand how to fix them. My work sits at the intersection of **cloud security**, **SOC operations** and **compliance frameworks** - building practical knowledge of how real attacks happen and how to stop them.
 
 ---
 
 ## 🛠️ What I've Built
 🔴 **Hybrid Infrastructure Security Simulations** — 10 attack & defence simulations across AWS and Ubuntu, mapped to NCSC CAF. Covered authentication, privilege management, access control, network security and attack surface reduction.
+
 🟠 **Web Application Penetration Testing** — Exploited XSS, IDOR and CSRF on a deliberately vulnerable platform. Hijacked live sessions via cookie extraction, manipulated URL parameters and forged authenticated requests.
+
 🟡 **Public Sector Security Gap Analysis** — Independent assessment of a live council's security posture against ISO 27001 and NCSC CAF. Identified weaknesses across access control, data management and authentication.
 
 ---
